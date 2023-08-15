@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,eACI,SAAU,CACV,SAAW,CACX,YACJ,CAEA,cACI,SAAU,CACV,QAAQ,CACR,YACJ","file":"style.cbc182a3.css","sourceRoot":"..\\templates","sourcesContent":[".ol-zoomslider {\r\n    top: 7.5em;\r\n    left: 0.5em;\r\n    height: 200px;\r\n}\r\n\r\n#footprintMap {\r\n    width: 50%;\r\n    top:50px;\r\n    height: 500px;\r\n}"]}

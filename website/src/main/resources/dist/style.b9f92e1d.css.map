@@ -1,0 +1,1 @@
+{"version":3,"sources":["../static/style/style.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"style.b9f92e1d.css","sourceRoot":"..\\templates","sourcesContent":[".ol-zoomslider {\r\n    top: 7.5em;\r\n    left: 0.5em;\r\n    height: 200px;\r\n}\r\n\r\n#footprintMap {\r\n    width: 50%;\r\n    top:50px;\r\n    height: 500px;\r\n}"]}

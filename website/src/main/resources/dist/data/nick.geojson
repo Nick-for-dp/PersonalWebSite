@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "place_name": "曼谷" }, "geometry": { "type": "Point", "coordinates": [ 11190268.247359045, 1543163.110335818 ] } },
+{ "type": "Feature", "properties": { "place_name": "佳木斯" }, "geometry": { "type": "Point", "coordinates": [ 14506168.016925971955061, 5909115.939688471145928 ] } },
+{ "type": "Feature", "properties": { "place_name": "海口" }, "geometry": { "type": "Point", "coordinates": [ 12266739.743740722537041, 2278494.378059226553887 ] } },
+{ "type": "Feature", "properties": { "place_name": "三亚" }, "geometry": { "type": "Point", "coordinates": [ 12190355.286666426807642, 2067365.061645511072129 ] } },
+{ "type": "Feature", "properties": { "place_name": "福州" }, "geometry": { "type": "Point", "coordinates": [ 13279490.657159309834242, 3008696.334295010194182 ] } },
+{ "type": "Feature", "properties": { "place_name": "厦门" }, "geometry": { "type": "Point", "coordinates": [ 13145100.612528339028358, 2812311.555442975368351 ] } },
+{ "type": "Feature", "properties": { "place_name": "武汉" }, "geometry": { "type": "Point", "coordinates": [ 12723811.923901230096817, 3580328.761113019660115 ] } },
+{ "type": "Feature", "properties": { "place_name": "常州" }, "geometry": { "type": "Point", "coordinates": [ 13354914.377286162227392, 3738753.551762609276921 ] } },
+{ "type": "Feature", "properties": { "place_name": "芭提雅" }, "geometry": { "type": "Point", "coordinates": [ 11229384.803228892, 1451450.5246201733 ] } },
+{ "type": "Feature", "properties": { "place_name": "武夷山" }, "geometry": { "type": "Point", "coordinates": [ 13139230.526836926117539, 3218561.051054540090263 ] } }
+]
+}

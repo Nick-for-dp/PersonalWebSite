@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "place_name": "烟台" }, "geometry": { "type": "Point", "coordinates": [ 13518942.679251873865724, 4503820.155542756430805 ] } },
+{ "type": "Feature", "properties": { "place_name": "南宁" }, "geometry": { "type": "Point", "coordinates": [ 12062855.139693129807711, 2610227.488537859171629 ] } },
+{ "type": "Feature", "properties": { "place_name": "南昌" }, "geometry": { "type": "Point", "coordinates": [ 12896729.975436951965094, 3335769.438383551314473 ] } },
+{ "type": "Feature", "properties": { "place_name": "杭州" }, "geometry": { "type": "Point", "coordinates": [ 13375078.612107522785664, 3539129.833968724124134 ] } },
+{ "type": "Feature", "properties": { "place_name": "湖州" }, "geometry": { "type": "Point", "coordinates": [ 13367461.736547749489546, 3619300.976622738409787 ] } },
+{ "type": "Feature", "properties": { "place_name": "南京" }, "geometry": { "type": "Point", "coordinates": [ 13223830.820567917078733, 3771495.278252420946956 ] } },
+{ "type": "Feature", "properties": { "place_name": "上海" }, "geometry": { "type": "Point", "coordinates": [ 13521887.035648588091135, 3662962.194772844202816 ] } },
+{ "type": "Feature", "properties": { "place_name": "北京" }, "geometry": { "type": "Point", "coordinates": [ 12957731.641693525016308, 4851802.328558014705777 ] } }
+]
+}

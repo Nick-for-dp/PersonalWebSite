@@ -1,0 +1,22 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "description": "The frontend of website",
+  "main": "static/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel templates/index.html",
+    "build": "parcel build --public-url . templates/index.html"
+  },
+  "author": "Wukehan",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/mapbox-gl-language": "^1.0.1",
+    "mapbox-gl": "^2.15.0",
+    "ol": "^7.4.0",
+    "ol-mapbox-style": "^10.6.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}

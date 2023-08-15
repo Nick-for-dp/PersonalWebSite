@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "place_name": "拉萨" }, "geometry": { "type": "Point", "coordinates": [ 10145583.427210982888937, 3458420.437258982565254 ] } },
+{ "type": "Feature", "properties": { "place_name": "丽江" }, "geometry": { "type": "Point", "coordinates": [ 11157176.115479396656156, 3105816.009389570914209 ] } },
+{ "type": "Feature", "properties": { "place_name": "林芝" }, "geometry": { "type": "Point", "coordinates": [ 10504150.844, 3458848.628 ] } },
+{ "type": "Feature", "properties": { "place_name": "大理" }, "geometry": { "type": "Point", "coordinates": [ 11165396.930562067776918, 2959685.79934514593333 ] } },
+{ "type": "Feature", "properties": { "place_name": "阿坝" }, "geometry": { "type": "Point", "coordinates": [ 11379413.287382716313004, 3750408.58094628714025 ] } },
+{ "type": "Feature", "properties": { "place_name": "重庆" }, "geometry": { "type": "Point", "coordinates": [ 11860851.101604085415602, 3447866.069787516724318 ] } },
+{ "type": "Feature", "properties": { "place_name": "成都" }, "geometry": { "type": "Point", "coordinates": [ 11584355.499693032354116, 3577641.173763344995677 ] } },
+{ "type": "Feature", "properties": { "place_name": "西安" }, "geometry": { "type": "Point", "coordinates": [ 12126646.323248343542218, 4074968.628352983854711 ] } },
+{ "type": "Feature", "properties": { "place_name": "香港" }, "geometry": { "type": "Point", "coordinates": [ 12708104.560698378831148, 2545057.094007420353591 ] } },
+{ "type": "Feature", "properties": { "place_name": "济州岛" }, "geometry": { "type": "Point", "coordinates": [ 14083771.28126063, 3961860.2174457465 ] } },
+{ "type": "Feature", "properties": { "place_name": "福冈" }, "geometry": { "type": "Point", "coordinates": [ 14516277.559255011, 3974104.182853268 ] } },
+{ "type": "Feature", "properties": { "place_name": "青岛" }, "geometry": { "type": "Point", "coordinates": [ 13400362.660524083301425, 4309817.637360493652523 ] } }
+]
+}
